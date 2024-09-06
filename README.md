@@ -1,2 +1,2 @@
 # Git-Commands
-Let's Know Git
+Let's Know Git Commands
